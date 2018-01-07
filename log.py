@@ -1,4 +1,4 @@
-#Author by Andy
+
 #_*_ coding:utf-8 _*_
 import os,sys,time
 import main
